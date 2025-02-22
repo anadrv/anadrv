@@ -11,4 +11,6 @@
 - Also, I love reading and watching things about the universe.
 
 ### :computer: Tech skills that I've been learning: 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,mysql,sketchup,postman,postgres,figma,ai,git)](https://skillicons.dev)
+
 
