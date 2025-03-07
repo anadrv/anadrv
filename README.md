@@ -1,6 +1,6 @@
 ### Hi! :smiley_cat:
 
-- I'm [**Ana**](https://www.linkedin.com/in/ana-luisa-drv/), architect and urban planner, who is currently studying Information Systems (3/9). 
+- I'm [**Ana**](https://www.linkedin.com/in/ana-luisa-drv/), architect and urban planner, who is currently studying Information Systems (3/9) - Unifacisa. 
 - I have been focusing my studies on front-end development.
 
 :t-rex: Some facts:
