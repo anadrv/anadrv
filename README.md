@@ -5,15 +5,17 @@
 
 ## 🦖 Some facts:
 
+<p>
+  <img align="right" src="https://i.pinimg.com/originals/65/78/d0/6578d09eeb6c8663a05d4f9114afb10d.gif" width="350" height="256">
+</p>
+
 - I'm always reading a book, most of the time epic fantasy.
 - My favorite dinosaur is the Triceratops.
 - I have 13 cats.
 - I'm trying to learn Korean.
 - Love reading and watching things about the universe.
 
-<p>
-  <img align="right" src="https://i.pinimg.com/originals/65/78/d0/6578d09eeb6c8663a05d4f9114afb10d.gif" width="350" height="256">
-</p>
+
 
   
 ### :computer: Tech skills that I've been learning: 
