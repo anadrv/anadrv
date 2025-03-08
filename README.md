@@ -6,7 +6,7 @@
 ## 🦖 Some facts:
 
 <p>
-  <img align="right" src="https://i.pinimg.com/originals/65/78/d0/6578d09eeb6c8663a05d4f9114afb10d.gif" width="350" height="256">
+  <img align="right" src="https://i.pinimg.com/originals/65/78/d0/6578d09eeb6c8663a05d4f9114afb10d.gif" width="350">
 </p>
 
 - I'm always reading a book, most of the time epic fantasy.
@@ -15,8 +15,7 @@
 - I'm trying to learn Korean.
 - Love reading and watching things about the universe.
 
-
-
+<br/><br/><br/>
   
 ### :computer: Tech skills that I've been learning: 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,mysql,sketchup,postman,postgres,figma,ai,git)](https://skillicons.dev)
