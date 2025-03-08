@@ -6,7 +6,7 @@
 ## 🦖 Some facts:
 
 <p>
-  <img align="right" src="https://i.pinimg.com/736x/48/46/cd/4846cd491775e721ded5fb9121a4a2dc.jpg" width="350">
+  <img align="right" src="https://i.pinimg.com/736x/48/46/cd/4846cd491775e721ded5fb9121a4a2dc.jpg" width="330">
 </p>
 
 - I'm always reading a book, most of the time epic fantasy.
