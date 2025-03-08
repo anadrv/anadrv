@@ -1,7 +1,7 @@
 ### Hi! :smiley_cat:
 
 - I'm [**Ana**](https://www.linkedin.com/in/ana-luisa-drv/), architect and urban planner, who is currently studying Information Systems (3/9) - Unifacisa. 
-- I have been focusing my studies on front-end development.
+
 
 ## 🦖 Some facts:
 
@@ -14,11 +14,16 @@
 - I have 13 cats.
 - I'm trying to learn Korean.
 - Love reading and watching things about the universe.
+- I have been focusing my studies on front-end development.
 
 <br/><br/><br/>
   
 ### :computer: Tech skills that I've been learning: 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,mysql,sketchup,postman,postgres,figma,ai,git)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img height="40" src="https://skillicons.dev/icons?i=js,html,css,java,py,mysql,sketchup,postman,postgres,figma,ai,git"/>
+  </a>
+</p>
 
 ### :blue_book: for planning and annotations:
 [![My Skills](https://skillicons.dev/icons?i=notion,trello)](https://skillicons.dev)
