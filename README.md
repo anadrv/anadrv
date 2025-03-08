@@ -18,12 +18,9 @@
 
 <br/><br/><br/>
   
+
 ### :computer: Tech skills that I've been learning: 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img height="40" src="https://skillicons.dev/icons?i=js,html,css,java,py,mysql,sketchup,postman,postgres,figma,ai,git"/>
-  </a>
-</p>
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,mysql,sketchup,postman,postgres,figma,ai,git)](https://skillicons.dev)
 
 ### :blue_book: for planning and annotations:
 [![My Skills](https://skillicons.dev/icons?i=notion,trello)](https://skillicons.dev)
