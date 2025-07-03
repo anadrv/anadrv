@@ -13,7 +13,7 @@
 - My favorite dinosaur is the Triceratops.
 - I have 13 cats.
 - I'm trying to learn Korean.
-- Love reading and watching things about the universe.
+- Love reading and watching things about the universe and the ocean. 
 - I have been focusing my studies on front-end development.
 <br>
 
