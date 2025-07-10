@@ -26,7 +26,7 @@
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,mysql,sketchup,postman,postgres,figma,ai,git,nodejs,npm)](https://skillicons.dev)
 
 ### :blue_book: for planning and annotations:
-[![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev) and Trello
+[![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev) --- Trello
 <br/>
 <hr/>
 
