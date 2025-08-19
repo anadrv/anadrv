@@ -1,6 +1,6 @@
 ### Hi! :smiley_cat:
 
-- I'm **Ana**, architect and urban planner, who is currently studying Information Systems (3/9) - Unifacisa. 
+- I'm **Ana**, architect and urban planner, who is currently studying Information Systems (4/9) - Unifacisa. 
 
 
 ## 🦖 Some facts:
