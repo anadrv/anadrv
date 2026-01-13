@@ -23,7 +23,7 @@
 </div>
 
 ### :computer: Tech skills that I've been learning: 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,java,py,mysql,sketchup,postman,postgres,figma,ai,git,nodejs,npm,react)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,java,py,mysql,sketchup,postman,postgres,figma,ai,git,nodejs,npm,react,tailwind)](https://skillicons.dev)
 
 ### :blue_book: for planning and annotations:
 Notion - Trello
