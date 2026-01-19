@@ -14,7 +14,7 @@
 - I have 14 cats.
 - I'm trying to learn Korean.
 - Love reading and watching things about the universe and the ocean. 
-- I have been focusing my studies on front-end development.
+- I have been focusing my studies on front-end/fullstack development.
 <br>
 
   <div align="center">  
