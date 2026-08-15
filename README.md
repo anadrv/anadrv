@@ -1,6 +1,6 @@
 ### Hi! :smiley_cat:
 
-- I'm **Ana**, architect and urban planner, who is currently studying Information Systems (5/9) - Unifacisa. 
+- I'm **Ana**, architect and urban planner, who is currently studying Information Systems (6/9) - Unifacisa. 
 
 
 ## 🦖 Some facts:
@@ -11,7 +11,7 @@
 
 - I'm always reading a book, most of the time epic fantasy.
 - My favorite dinosaur is the Triceratops.
-- I have 13 cats.
+- I have 14 cats.
 - I'm trying to learn Korean.
 - Love reading and watching things about the universe and the ocean. 
 - I have been focusing my studies on front-end/fullstack development.
